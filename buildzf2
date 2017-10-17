@@ -23,7 +23,7 @@ export SLEEP=1
 echo "Setting CPU Cores/Threads"
 export CPUS=`nproc`
 echo "Setting Version Number"
-export VER=v1$1
+export VER=v1.5$1
 echo "Setting Defconfig"
 export DEFCONFIG=zenfone2_defconfig
 echo "Setting bzImage Location"
